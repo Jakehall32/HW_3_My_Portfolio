@@ -1,0 +1,56 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+    margin: 25px;
+    float: right;
+    padding: 1px;
+}
+
+
+.logo{
+    width: 23%;
+    padding: 1%;
+    float: left;
+}
+
+.navigation{
+    width: 98%;
+    padding: 1%;
+    background-color: rgb(73, 73, 73);
+    height: 130px;
+}
+
+
+
+.ul{
+    width: 50%;
+    margin-left: auto;
+}
+
+#section{
+    height: 600px;
+    padding: 25px;
+}
+
+.content{
+    width: 500px;
+    margin: 0 auto;
+    height: 500px;
+    padding: 50px;
+    text-align: center;
+}
+    
+
+footer{
+    background-color: rgb(73, 73, 73);
+    padding: center;
+}
+
+footer ul{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+
+
